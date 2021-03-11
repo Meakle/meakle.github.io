@@ -1,0 +1,20 @@
+{
+    "name": "方阿森的Blog&Brain",
+    "short_name": "B&B",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "方阿森的博客以及知识库",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "200x200",
+            "type": "image/ico"
+        }
+    ],
+    "related_applications": [
+        {
+            "platform": "web"
+        }
+    ]
+}
